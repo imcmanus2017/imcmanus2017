@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @imcmanus2017
+- 👀 I’m interested in Amateur Radio in general and Antenna design in particular; Github has featured in a Vector Network Analyser called 'NanoVNA'.
+- 🌱 I’m currently learning how Github might be of use to me in pursuing my interest in this subject area.
